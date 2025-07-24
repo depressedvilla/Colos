@@ -1,9 +1,9 @@
 {
-  "name": "prince-mdx",
+  "name": "divine-mdx",
   "version": "3.0.0",
-  "description": "I am PRINCE MDX, a Simple WhatsApp Bot built with NodeJs to Enhance WhatsApp Communication experience",
+  "description": "I am DIVINE MDX, a Simple WhatsApp Bot built with NodeJs to Enhance WhatsApp Communication experience",
   "website": "https://files.catbox.moe/ykdtkm.jpeg",
-  "logo": "https://files.catbox.moe/52699c.jpg",
+  "logo": "https://files.catbox.moe/m96ecn.jpg",
   "keywords": ["prince-md", "Prince mdx","prince mdxi","PRINCE-MDXI"],
   "repository": "https://github.com/Mayelprince/PRINCE-MDXI",
   "success_url": "/",
